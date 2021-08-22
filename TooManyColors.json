@@ -1,10 +1,10 @@
 {
     "name": "ToManyColors",
     "author": "- By Err0r",
-    "version": "2.5",
+    "version": "2.6",
     "updater": "https://raw.githubusercontent.com/Err0r420/My-Theme/main/TooManyColors.json",
     "drawablecolor_drawable_overlay_channels_selected_dark": 4281812815,
-    "color_uikit_btn_bg_color_selector_green": -6353180,
+    "color_uikit_btn_bg_color_selector_green": -3042563,
     "color_uikit_btn_bg_color_selector_secondary_dark": 4282848277,
     "mention_highlight": 1920367002,
     "color_uikit_btn_bg_color_selector_background_accent_light": -15329762,
@@ -18,6 +18,6 @@
     "color_uikit_btn_bg_color_selector_secondary_light": -15329762,
     "color_uikit_btn_bg_color_selector_background_accent_dark": -42948994,
     "link": 4294149768,
-    "color_brand_new": 4284901102,
+    "color_brand_new": -10656333,
     "brand_new_560": 4284901102
 }
