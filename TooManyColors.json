@@ -1,10 +1,10 @@
 {
     "name": "ToManyColors",
     "author": "- By Err0r",
-    "version": "1.1",
+    "version": "1.2",
     "updater": "https://raw.githubusercontent.com/Err0r420/My-Theme/main/TooManyColors.json",
     "drawablecolor_drawable_overlay_channels_selected_dark": 4281812815,
-    "color_uikit_btn_bg_color_selector_green": -5730050,
+    "color_uikit_btn_bg_color_selector_green": -9270822,
     "color_uikit_btn_bg_color_selector_secondary_dark": 4282848277,
     "mention_highlight": 1920367002,
     "color_uikit_btn_bg_color_selector_background_accent_light": -15329762,
