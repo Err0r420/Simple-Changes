@@ -1,7 +1,7 @@
 {
  "name": "SimpleChanges",
  "author": "- By Err0r",
- "version": "3.8",
+ "version": "3.9",
  "updater": "https://raw.githubusercontent.com/Err0r420/My-Theme/main/SimpleChanges.json",
  "drawablecolor_drawable_overlay_channels_selected_dark": 4281812815,
  "color_uikit_btn_bg_color_selector_green": -15307272,
@@ -23,5 +23,6 @@
  "color_brand_new": -10656333,
  "background_url": "https://wallpaper.dog/large/20417909.jpg",
  "background_transparency": 50,
+ "drawablecolor_ic_tab_search": 4284901102,
  "color_primary_dark_630": -1758514890
 }
