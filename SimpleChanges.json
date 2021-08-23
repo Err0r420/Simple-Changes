@@ -1,7 +1,9 @@
 {
     "name": "SimpleChanges",
     "author": "- By Err0r",
-    "version": "3.1",
+    "version": "3.2",
+    "background_url": "https://i.pinimg.com/474x/a6/7a/68/a67a6812c29acf27a23afa8a1d437a75.jpg", 
+    "background_transparency": 75,
     "updater": "https://raw.githubusercontent.com/Err0r420/My-Theme/main/SimpleChanges.json",
     "drawablecolor_drawable_overlay_channels_selected_dark": 4281812815,
     "color_uikit_btn_bg_color_selector_green": -15307272,
