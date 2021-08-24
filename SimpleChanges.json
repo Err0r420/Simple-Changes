@@ -1,7 +1,7 @@
 {
  "name": "SimpleChanges",
  "author": "- By Err0r",
- "version": "4.9",
+ "version": "5.0",
  "updater": "https://raw.githubusercontent.com/Err0r420/My-Theme/main/SimpleChanges.json",
  "drawablecolor_drawable_overlay_channels_selected_dark": 4281812815,
  "color_uikit_btn_bg_color_selector_green": -15307272,
@@ -21,6 +21,6 @@
  "primary_dark_600": -15000543,
  "brand_new_560": 4284901102,
  "color_brand_new": -10656333,
- "background_url": "https://media.discordapp.net/attachments/879585368570228797/879602047396245545/Screenshot_20210824-013900_Galaxy_Themes.jpg",
+ "background_url": "https://media.discordapp.net/attachments/879585368570228797/879603509048254516/Screenshot_20210824-014019_Galaxy_Themes.jpg",
  "background_transparency": 90
 }
