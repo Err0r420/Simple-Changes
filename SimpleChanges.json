@@ -1,7 +1,7 @@
 {
  "name": "SimpleChanges",
  "author": "- By Err0r",
- "version": "4.7",
+ "version": "4.8",
  "updater": "https://raw.githubusercontent.com/Err0r420/My-Theme/main/SimpleChanges.json",
  "drawablecolor_drawable_overlay_channels_selected_dark": 4281812815,
  "color_uikit_btn_bg_color_selector_green": -15307272,
@@ -21,6 +21,6 @@
  "primary_dark_600": -15000543,
  "brand_new_560": 4284901102,
  "color_brand_new": -10656333,
- "background_url": "https://wallpaperaccess.com/full/1556327.png",
- "background_transparency": 75
+ "background_url": "https://i.pinimg.com/originals/35/ef/da/35efdab7df8e9a074a1f1955e2f9b449.jpg",
+ "background_transparency": 90
 }
