@@ -1,7 +1,7 @@
 {
  "name": "SimpleChanges",
  "author": "- By Err0r",
- "version": "7.8",
+ "version": "7.9",
  "updater": "https://raw.githubusercontent.com/Err0r420/My-Theme/main/SimpleChanges.json",
  "drawablecolor_drawable_overlay_channels_selected_dark": 4281812815,
  "color_uikit_btn_bg_color_selector_green": -15307272,
@@ -14,7 +14,7 @@
  "color_uikit_btn_bg_color_selector_red": 4294149768,
  "drawablecolor_drawable_overlay_channels_active_dark": -4605237,
  "simple_accent_color": 4294149768,
- "simple_bg_secondary_color": 4282848277,
+ "simple_bg_secondary_color": -10522943,
  "color_uikit_btn_bg_color_selector_brand": -15000543,
  "color_uikit_btn_bg_color_selector_secondary_light": -15000543,
  "color_uikit_btn_bg_color_selector_background_accent_dark": -42948994,
