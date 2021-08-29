@@ -1,7 +1,7 @@
 {
  "name": "SimpleChanges",
  "author": "- By Err0r",
- "version": "7.5",
+ "version": "7.6",
  "updater": "https://raw.githubusercontent.com/Err0r420/My-Theme/main/SimpleChanges.json",
  "drawablecolor_drawable_overlay_channels_selected_dark": 4281812815,
  "color_uikit_btn_bg_color_selector_green": -15307272,
@@ -23,6 +23,7 @@
  "color_brand_new": -10656333,
  "brand_new_360": 4294149768,
  "color_brand":-10522943,
+ "color_flexInputIconColor":-16777216,
  "color_brand_500":-10522943,
  "color_brand_600":-10522943,
  "color_brand_new":-10522943,
