@@ -1,7 +1,7 @@
 {
  "name": "SimpleChanges",
  "author": "- By Err0r",
- "version": "4.20",
+ "version": "7.8",
  "license": "FUCK LICENSES!",
  "updater": "https://raw.githubusercontent.com/Err0r420/My-Theme/main/SimpleChanges.json",
  "drawablecolor_drawable_overlay_channels_selected_dark": 4281812815,
@@ -34,5 +34,7 @@
  "primary_700": 4281812815,
  "color_material_grey_50": -15000543,
  "background_url": "https://media.discordapp.net/attachments/879585368570228797/879642707272794192/Dkdjjdjdiendndjdndjdjdjdjdjiekxjowjdiekdbe8dnedbei.jpg",
- "background_transparency": 90
+ "background_transparency": 90,
+ "simple_bg_color": -15658735,
+ "simple_bg_secondary_color": -16777216
 }
